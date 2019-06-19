@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	cout<<"hello git"<<endl;
+	cout<<"new git"<<endl;
 	return 0;
 }
 
