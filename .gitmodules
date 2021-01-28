@@ -1,0 +1,3 @@
+[submodule "CmakeTest"]
+	path = CmakeTest
+	url = https://github.com/APotatoBoy/CmakeTest
