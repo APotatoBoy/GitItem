@@ -1,5 +1,10 @@
 First line in develop
+<<<<<<< HEAD
 First line in conf2
 Second line in conf2
 First line in conf1
 Second line in conf1
+=======
+Second line in develop
+Third line in develop
+>>>>>>> 3a84d53... add two lines in conflict, delete two lines in test1
